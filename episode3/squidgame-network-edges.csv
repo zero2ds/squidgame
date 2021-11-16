@@ -1,0 +1,61 @@
+source,target,weight
+Abdul Ali_P199,Il-nam_P001,5
+Abdul Ali_P199,P240,17
+Abdul Ali_P199,Gi-hun_P456,1
+Abdul Ali_P199,Gangster_P101,1
+Abdul Ali_P199,Loud_woman_P212,1
+Abdul Ali_P199,P077,1
+Doctor_P111,Abdul Ali_P199,1
+Doctor_P111,Gangster_P101,1
+Doctor_P111,Loud_woman_P212,7
+Doctor_P111,Gi-hun_P456,1
+Gangster_P101,Loud_woman_P212,2
+Gi-hun_P456,Il-nam_P001,6
+P017,P244,2
+P017,P240,4
+P017,Abdul Ali_P199,1
+P017,P077,3
+P017,P045,1
+P017,P385,2
+P017,P372,1
+P045,Il-nam_P001,17
+P045,Sae-byeok_P067,5
+P045,P240,18
+P045,P070,2
+P045,Abdul Ali_P199,6
+P045,Gi-hun_P456,6
+P045,Sang-woo_P218,6
+P045,P077,1
+P069,P240,3
+P069,P070,3
+P069,P045,2
+P069,Abdul Ali_P199,1
+P077,P385,3
+P077,P124,1
+P102,Il-nam_P001,1
+P102,P372,1
+P102,P385,1
+P102,P240,1
+P240,Il-nam_P001,13
+P240,P070,3
+P240,Gi-hun_P456,19
+P240,P385,2
+P240,P077,3
+P240,P124,1
+P244,P240,2
+P278,Sang-woo_P218,1
+P372,P385,1
+P372,P240,1
+P372,P077,1
+Sae-byeok_P067,Il-nam_P001,3
+Sae-byeok_P067,Gi-hun_P456,7
+Sae-byeok_P067,P240,16
+Sae-byeok_P067,Sang-woo_P218,19
+Sae-byeok_P067,Abdul Ali_P199,11
+Sae-byeok_P067,Doctor_P111,1
+Sae-byeok_P067,P102,1
+Sang-woo_P218,Il-nam_P001,5
+Sang-woo_P218,Gi-hun_P456,9
+Sang-woo_P218,P240,26
+Sang-woo_P218,P276,1
+Sang-woo_P218,Abdul Ali_P199,13
